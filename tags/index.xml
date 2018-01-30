@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on None</title>
+    <link>http://username.github.io/tags/</link>
+    <description>Recent content in Tags on None</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 18 Jan 2018 13:45:43 +0100</lastBuildDate>
+    
+	<atom:link href="http://username.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>C</title>
+      <link>http://username.github.io/tags/c/</link>
+      <pubDate>Thu, 18 Jan 2018 13:45:43 +0100</pubDate>
+      
+      <guid>http://username.github.io/tags/c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hack</title>
+      <link>http://username.github.io/tags/hack/</link>
+      <pubDate>Thu, 18 Jan 2018 13:46:43 +0100</pubDate>
+      
+      <guid>http://username.github.io/tags/hack/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tcpdump</title>
+      <link>http://username.github.io/tags/tcpdump/</link>
+      <pubDate>Thu, 18 Jan 2018 13:46:43 +0100</pubDate>
+      
+      <guid>http://username.github.io/tags/tcpdump/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
