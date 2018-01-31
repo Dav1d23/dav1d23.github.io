@@ -3,49 +3,49 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://dav1d23.github.io/</loc>
+    <loc>https://dav1d23.github.io/</loc>
     <lastmod>2018-01-18T13:56:35+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://dav1d23.github.io/post/20180118_01/</loc>
+    <loc>https://dav1d23.github.io/post/20180118_01/</loc>
     <lastmod>2018-01-18T13:45:43+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://dav1d23.github.io/page/about/</loc>
+    <loc>https://dav1d23.github.io/page/about/</loc>
   </url>
   
   <url>
-    <loc>http://dav1d23.github.io/tags/c/</loc>
-    <lastmod>2018-01-18T13:45:43+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://dav1d23.github.io/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://dav1d23.github.io/tags/hack/</loc>
+    <loc>https://dav1d23.github.io/tags/c/</loc>
     <lastmod>2018-01-18T13:45:43+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://dav1d23.github.io/page/</loc>
+    <loc>https://dav1d23.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://dav1d23.github.io/post/</loc>
+    <loc>https://dav1d23.github.io/tags/hack/</loc>
     <lastmod>2018-01-18T13:45:43+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://dav1d23.github.io/tags/</loc>
+    <loc>https://dav1d23.github.io/page/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dav1d23.github.io/post/</loc>
+    <lastmod>2018-01-18T13:45:43+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dav1d23.github.io/tags/</loc>
     <lastmod>2018-01-18T13:45:43+01:00</lastmod>
     <priority>0</priority>
   </url>
